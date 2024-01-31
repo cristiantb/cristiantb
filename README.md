@@ -2,7 +2,7 @@
 - 👀 I’m interested in medical statistics
 - 🌱 I’m currently learning biostatistics and R 
 - 💞️ I’m looking to collaborate on biostatistics
-- 📫 How to reach me ctebe at idibell.cat
+- 📫 How to reach me ctebe at igtp.cat
 
 <!---
 cristiantb/cristiantb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
